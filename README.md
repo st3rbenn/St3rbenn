@@ -4,5 +4,7 @@
 </a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st3rbenn&layout=compact)](https://github.com/st3rbenn/github-readme-stats)
+  
 </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=st3rbenn&layout=compact)](https://github.com/st3rbenn/github-readme-stats)
