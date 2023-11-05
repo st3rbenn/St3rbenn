@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! i'm Anthonin alias St3rbenn,<br>a lovely passionate developer from France 🇫🇷 🥐</h2>
+<h2 align="left">Hi 👋 ! i'm Anthonin alias St3rbenn,<br>a lovely passionate developer from France 🇫🇷 🥐</h2>
 
 ###
 
